@@ -7,7 +7,7 @@ SQL-2, API
 ALTER TABLE pet 
 ADD COLUMN species VARCHAR (10);
 
-
+I love GIT
 
 2. DROP COLUMN - удалить столбец
 ALTER TABLE pet 
